@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/lowrisc/ibex/_apis/build/status/lowRISC.ibex?branchName=master)](https://dev.azure.com/lowrisc/ibex/_build/latest?definitionId=3&branchName=master)
 
-# Ibex RISC-V Core -
+# Ibex RISC-V Core - Uffizzi
 
 Ibex is a production-quality open source 32-bit RISC-V CPU core written in
 SystemVerilog. The CPU core is heavily parametrizable and well suited for
